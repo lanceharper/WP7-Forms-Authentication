@@ -1,0 +1,13 @@
+C:\Dev\WinPhone7Login\TestMembershipClient\Bin\Debug\ApplicationIcon.png
+C:\Dev\WinPhone7Login\TestMembershipClient\Bin\Debug\Background.png
+C:\Dev\WinPhone7Login\TestMembershipClient\Bin\Debug\TestMembershipClient.dll
+C:\Dev\WinPhone7Login\TestMembershipClient\Bin\Debug\TestMembershipClient.pdb
+C:\Dev\WinPhone7Login\TestMembershipClient\Bin\Debug\AppManifest.xaml
+C:\Dev\WinPhone7Login\TestMembershipClient\Bin\Debug\TestMembershipClient.xap
+C:\Dev\WinPhone7Login\TestMembershipClient\obj\Debug\ResolveAssemblyReference.cache
+C:\Dev\WinPhone7Login\TestMembershipClient\obj\Debug\App.g.i.cs
+C:\Dev\WinPhone7Login\TestMembershipClient\obj\Debug\MainPage.g.i.cs
+C:\Dev\WinPhone7Login\TestMembershipClient\obj\Debug\TestMembershipClient.g.resources
+C:\Dev\WinPhone7Login\TestMembershipClient\obj\Debug\TestMembershipClient.dll
+C:\Dev\WinPhone7Login\TestMembershipClient\obj\Debug\TestMembershipClient.pdb
+C:\Dev\WinPhone7Login\TestMembershipClient\obj\Debug\XapCacheFile.xml

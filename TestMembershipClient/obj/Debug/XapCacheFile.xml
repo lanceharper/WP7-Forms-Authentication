@@ -1,0 +1,9 @@
+﻿<xapCache source="C:\Dev\WinPhone7Login\TestMembershipClient\Bin\Debug\TestMembershipClient.xap" wasSigned="False" certificateThumbprint="" TimeStampUrl="" lastWriteTime="7/23/2011 9:35:30 PM">
+  <file source="C:\Dev\WinPhone7Login\TestMembershipClient\Properties\WMAppManifest.xml" archivePath="WMAppManifest.xml" lastWriteTime="7/23/2011 8:43:48 PM" />
+  <file source="C:\Dev\WinPhone7Login\TestMembershipClient\obj\Debug\TestMembershipClient.dll" archivePath="TestMembershipClient.dll" lastWriteTime="7/23/2011 9:26:54 PM" />
+  <file source="C:\Dev\WinPhone7Login\TestMembershipClient\ServiceReferences.ClientConfig" archivePath="ServiceReferences.ClientConfig" lastWriteTime="7/23/2011 9:35:28 PM" />
+  <file source="C:\Dev\WinPhone7Login\TestMembershipClient\ApplicationIcon.png" archivePath="ApplicationIcon.png" lastWriteTime="7/23/2011 8:43:48 PM" />
+  <file source="C:\Dev\WinPhone7Login\TestMembershipClient\Background.png" archivePath="Background.png" lastWriteTime="7/23/2011 8:43:48 PM" />
+  <file source="C:\Dev\WinPhone7Login\TestMembershipClient\SplashScreenImage.jpg" archivePath="SplashScreenImage.jpg" lastWriteTime="7/23/2011 8:43:48 PM" />
+  <file source="C:\Dev\WinPhone7Login\TestMembershipClient\Bin\Debug\AppManifest.xaml" archivePath="AppManifest.xaml" lastWriteTime="7/23/2011 8:56:01 PM" />
+</xapCache>

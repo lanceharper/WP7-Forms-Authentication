@@ -1,0 +1,1 @@
+﻿<%@ ServiceHost Language="C#" Debug="true" Service="WinPhone7Authentication.HelloService" CodeBehind="HelloService.svc.cs" %>

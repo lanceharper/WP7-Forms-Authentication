@@ -1,0 +1,24 @@
+﻿<configuration>
+    <system.serviceModel>
+        <bindings>
+            <basicHttpBinding>
+                <binding name="BasicHttpBinding_AuthenticationService" maxBufferSize="2147483647" enableHttpCookieContainer="true"
+                    maxReceivedMessageSize="2147483647">
+                    <security mode="None" />
+                </binding>
+                <binding name="BasicHttpBinding_IHelloService" maxBufferSize="2147483647" enableHttpCookieContainer="true"
+                    maxReceivedMessageSize="2147483647">
+                    <security mode="None" />
+                </binding>
+            </basicHttpBinding>
+        </bindings>
+        <client>
+            <endpoint address="http://localhost:64363/Authentication.svc"
+                binding="basicHttpBinding" bindingConfiguration="BasicHttpBinding_AuthenticationService"
+                contract="MvcWebAppReference.AuthenticationService" name="BasicHttpBinding_AuthenticationService" />
+            <endpoint address="http://localhost:64363/HelloService.svc" binding="basicHttpBinding"
+                bindingConfiguration="BasicHttpBinding_IHelloService" contract="AspNetMvcRealReference.IHelloService"
+                name="BasicHttpBinding_IHelloService" />
+        </client>
+    </system.serviceModel>
+</configuration>

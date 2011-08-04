@@ -1,0 +1,5 @@
+C:\Dev\WinPhone7Login\WinPhone7Login\bin\WinPhone7Login.dll
+C:\Dev\WinPhone7Login\WinPhone7Login\bin\WinPhone7Login.pdb
+C:\Dev\WinPhone7Login\WinPhone7Login\obj\Debug\ResolveAssemblyReference.cache
+C:\Dev\WinPhone7Login\WinPhone7Login\obj\Debug\WinPhone7Login.dll
+C:\Dev\WinPhone7Login\WinPhone7Login\obj\Debug\WinPhone7Login.pdb
